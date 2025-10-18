@@ -1,5 +1,4 @@
 ﻿# Restaurant-review-platform
- # Restaurant Review Platform
 
 A modern full-stack web application built with Spring Boot, Elasticsearch, and Keycloak that allows users to discover, review, and rate restaurants. Users can share detailed dining experiences, browse reviews from other users, search restaurants by location and cuisine type, and make informed decisions about where to eat.
 
@@ -444,3 +443,4 @@ Edit `pom.xml` and add dependencies, then rebuild:
 ```bash
 mvn clean install
 ``` 
+
