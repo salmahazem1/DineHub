@@ -1,6 +1,6 @@
-﻿# Restaurant-review-platform
+﻿# DineHub
 
-A modern full-stack web application built with Spring Boot, Elasticsearch, and Keycloak that allows users to discover, review, and rate restaurants. Users can share detailed dining experiences, browse reviews from other users, search restaurants by location and cuisine type, and make informed decisions about where to eat.
+A modern web application built with Spring Boot, Elasticsearch, and Keycloak that allows users to discover, review, and rate restaurants. Users can share detailed dining experiences, browse reviews from other users, search restaurants by location and cuisine type, and make informed decisions about where to eat.
 
 ## Table of Contents
 
@@ -14,8 +14,6 @@ A modern full-stack web application built with Spring Boot, Elasticsearch, and K
 - [Project Structure](#project-structure)
 - [Key Features Explained](#key-features-explained)
 - [Development](#development)
-- [Contributing](#contributing)
-- [Author](#author)
 
 ## Features
 
@@ -443,4 +441,5 @@ Edit `pom.xml` and add dependencies, then rebuild:
 ```bash
 mvn clean install
 ``` 
+
 
