@@ -1,0 +1,6 @@
+package com.example.restaurant.domain;
+
+public class GeoLocation {
+    private Double latitude;
+    private Double longitude;
+}

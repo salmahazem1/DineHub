@@ -1,0 +1,4 @@
+package com.example.restaurant.domain.dtos;
+
+public class UserDto {
+}
