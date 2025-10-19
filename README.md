@@ -91,8 +91,8 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/salmahazem1/Restaurant-review-platform.git
-cd Restaurant-review-platform
+git clone https://github.com/salmahazem1/DineHub.git
+cd DineHub
 ```
 
 ### Step 2: Start Infrastructure with Docker Compose
@@ -441,5 +441,6 @@ Edit `pom.xml` and add dependencies, then rebuild:
 ```bash
 mvn clean install
 ``` 
+
 
 
